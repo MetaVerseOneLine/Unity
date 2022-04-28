@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AF1C8223-A2D9-B461-C326-BEB393019E67}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/KartScripts/Kart/BasicSpawner.cs">
+    <Files>
+      <File FileName="Assets/KartScripts/Kart/SelectMenu.cs" Line="47" Column="37" />
+      <File FileName="Assets/KartScripts/Kart/BasicSpawner.cs" Line="27" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Photon_Kart_Test_2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="KartScripts" expanded="True">
+                <Node name="Kart" expanded="True">
+                  <Node name="BasicSpawner.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9c081141-80eb-43bc-81c5-094ae07f01b7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{E9E47814-06D8-878F-40B3-B9CB128EF253}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/KartScripts/Kart/BasicSpawner.cs">
+    <Files>
+      <File FileName="Assets/KartScripts/Kart/SelectMenu.cs" Line="39" Column="37" />
+      <File FileName="Assets/KartScripts/Kart/BasicSpawner.cs" Line="21" Column="1" />
+      <File FileName="Assets/Photon/FusionAddressables/FusionAddressablePrefabsPreloader.cs" Line="39" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kart_addressable_test" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="KartScripts" expanded="True">
+                <Node name="Kart" expanded="True">
+                  <Node name="BasicSpawner.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Photon" expanded="True">
+                <Node name="FusionAddressables" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5ef13b96-83b5-4adf-b899-6db7d822d41c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
